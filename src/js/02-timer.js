@@ -34,7 +34,7 @@ refs.timerLabel.forEach(label => {
   label.style.fontWeight = '600';
 });
 
-// disable start btn
+// disable start button
 refs.btnStart.setAttribute('disabled', '');
 
 // flatpickr calendar
